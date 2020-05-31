@@ -1,4 +1,4 @@
-const roamData = require("./ondis.json");
+const roamData = require("./roamData.json");
 const axios = require("axios");
 
 const TAG = "#Flashcard";
